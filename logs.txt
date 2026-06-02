@@ -1,0 +1,1125 @@
+
+========================
+TIME: 2026-06-02 10:53:05.291898
+
+IP ADDRESS:
+192.168.1.51
+
+USER AGENT:
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+
+HEADERS:
+{
+  "Host": "192.168.1.51:5000",
+  "Connection": "keep-alive",
+  "Cache-Control": "max-age=0",
+  "Upgrade-Insecure-Requests": "1",
+  "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux x86_64",
+  "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 1920,
+  "screenHeight": 1200,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:05:48.187507
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+WhatsApp/2.23.20.0
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "WhatsApp/2.23.20.0",
+  "Accept-Encoding": "gzip",
+  "Accept-Language": "en",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+========================
+TIME: 2026-06-02 11:06:00.246043
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:06:06.800085
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:06:08.233938
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:06:09.189165
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:06:09.975762
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:06:10.795163
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:06:11.613993
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:06:12.421301
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:06:13.233998
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:06:14.073995
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:25:46.656483
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:25:47.952412
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:25:50.102865
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:25:51.223945
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:25:52.060522
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:25:52.925972
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:25:53.904790
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+========================
+TIME: 2026-06-02 11:25:58.059330
+
+IP ADDRESS:
+127.0.0.1
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+========================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+================================================
+
+TIME:
+2026-06-02 11:29:43.365032
+
+IP ADDRESS:
+103.52.39.6
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+================================================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+================================================
+
+TIME:
+2026-06-02 11:29:50.125727
+
+IP ADDRESS:
+103.52.39.6
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+================================================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+================================================
+
+TIME:
+2026-06-02 11:29:51.964663
+
+IP ADDRESS:
+103.52.39.6
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+================================================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+================================================
+
+TIME:
+2026-06-02 11:29:52.999611
+
+IP ADDRESS:
+103.52.39.6
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+================================================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+LOCATION DATA:
+{
+  "latitude": 17.4510844,
+  "longitude": 78.3658561,
+  "accuracy": 42.290000915527344
+}
+
+================================================
+
+TIME:
+2026-06-02 11:33:53.117093
+
+IP ADDRESS:
+103.52.39.6
+
+USER AGENT:
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+
+HEADERS:
+{
+  "Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "en-US,en;q=0.9,te;q=0.8,ml;q=0.7",
+  "Cache-Control": "max-age=0",
+  "Cookie": "abuse_interstitial=laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "Priority": "u=0, i",
+  "Sec-Ch-Ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+  "Sec-Ch-Ua-Mobile": "?1",
+  "Sec-Ch-Ua-Platform": "\"Android\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "X-Forwarded-For": "103.52.39.6",
+  "X-Forwarded-Host": "laevogyrate-nonmaliciously-bruno.ngrok-free.dev",
+  "X-Forwarded-Proto": "https"
+}
+
+================================================
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+DEVICE INFO:
+{
+  "platform": "Linux armv81",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+  "language": "en-US",
+  "screenWidth": 393,
+  "screenHeight": 870,
+  "timezone": "Asia/Calcutta"
+}
+
+LOCATION DATA:
+{
+  "latitude": 17.4511034,
+  "longitude": 78.3660774,
+  "accuracy": 27.54199981689453
+}
+
+LOCATION DATA:
+{
+  "latitude": 17.4511034,
+  "longitude": 78.3660774,
+  "accuracy": 27.54199981689453
+}
+
+LOCATION DATA:
+{
+  "latitude": 17.4511034,
+  "longitude": 78.3660774,
+  "accuracy": 27.54199981689453
+}
